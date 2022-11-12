@@ -32,3 +32,17 @@
 
 * *To return to master version enter - **"git checkout master"***
 
+**To type a text by a different style use the following:**
+
+* Italics style - * *TEXT* *
+
+* Bold style - ** **TEXT** **
+
+* Non-Numerical elements - * TEXT
+
+* Numerical elements - 1 TEXT
+
+* Headlines - # TEXT
+
+* Text selection - ## TEXT
+
