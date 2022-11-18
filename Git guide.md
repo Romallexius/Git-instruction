@@ -30,6 +30,8 @@
 
 * *To check other versions enter - **"git checkout"***
 
+* *To see the graphical log - type **"git log --graph"***
+
 * *To check difference between versions - **"git diff"***
 
 * *To return to master version enter - **"git checkout master"***
