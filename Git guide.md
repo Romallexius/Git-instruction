@@ -36,6 +36,8 @@
 
 * *To create a new branch - type git branch <branch name>*
 
+* *To return to branch version type - **"git checkout <branch>***
+
 **To type a text by a different style use the following:**
 
 * *Italics style* - `*TEXT*`
