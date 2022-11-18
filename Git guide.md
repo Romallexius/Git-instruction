@@ -49,3 +49,5 @@
 * *Text selection* - `## TEXT`
 
 * *Crossed out text* - ` ~~TEXT~~ `
+
+**To add any picture to a file - create folder <gitignore>**
